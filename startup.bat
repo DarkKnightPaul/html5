@@ -1,0 +1,1 @@
+browser-sync start --server "html/" --files "**/*.html,**/*.css,**/*.js" --port 12000
